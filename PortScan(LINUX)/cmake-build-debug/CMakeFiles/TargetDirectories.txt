@@ -1,0 +1,3 @@
+/home/makehesh/CLionProjects/Port_Scanner/cmake-build-debug/CMakeFiles/Port_Scanner.dir
+/home/makehesh/CLionProjects/Port_Scanner/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/makehesh/CLionProjects/Port_Scanner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
